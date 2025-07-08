@@ -66,7 +66,7 @@ DBT is used to build curated business views on top of the gold layer. An example
 - Maintains version control
 - Enables SQL-based transformation on curated data
 
-![DBT Model](./assets/dbt_model.png)
+![DBT Model](https://github.com/jotstolu/Flight-Booking-Analytics-Data-Engineering-Project-using-Databricks-and-DBT/blob/main/asset/img/DBT%20model.png?raw=true)
 
 ---
 
