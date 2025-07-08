@@ -43,7 +43,7 @@ The Silver layer is built using **Delta Live Tables (DLT)** with the following f
 - Transformations like joins, filtering, and normalization
 - DLT **expectations** to enforce data quality
 
-![Silver DLT Pipeline](./assets/silver_dlt_pipeline.png)
+![Silver DLT Pipeline](https://github.com/jotstolu/Flight-Booking-Analytics-Data-Engineering-Project-using-Databricks-and-DBT/blob/main/asset/img/silver%20DLT%20Pipeline.png?raw=true)
 
 ---
 
