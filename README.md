@@ -21,7 +21,6 @@ It covers:
 
 The architecture follows the modern **lakehouse paradigm** with an integrated warehouse and transformation layer.
 
-![Project Architecture](./assets/project_architecture.png)
 
 ---
 
@@ -32,7 +31,7 @@ This pipeline ingests raw CSV files using **Autoloader** and moves data into the
 - Uses a **lookup notebook** for incremental load tracking
 - Autoloads multiple files using schema evolution
 
-![Bronze Ingestion Pipeline](./assets/bronze_ingestion_pipeline.png)
+![Bronze Ingestion Pipeline](https://github.com/jotstolu/Flight-Booking-Analytics-Data-Engineering-Project-using-Databricks-and-DBT/blob/main/asset/img/Bronze%20Ingestion%20Pipeline.png?raw=true)
 
 ---
 
